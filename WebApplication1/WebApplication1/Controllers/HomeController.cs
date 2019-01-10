@@ -30,5 +30,12 @@ namespace WebApplication1.Controllers
             ViewBag.Greeting = hour < 12 ? "Good Morning" : "Good Afternoon";
             return View("MyView");
         }
+
+        /*
+         * The RsvpForm action method calls the View method without an argument, 
+         * which tells MVC to render the default view associated with the action method, 
+         * which is a view with the same name as the action method, in this case RsvpForm.cshtml
+        */
+        public ViewResult RsvpForm() { return View(); }
     }
 }

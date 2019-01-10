@@ -35,3 +35,4 @@ C:\Users\slohja\Documents\Visual Studio 2017\Projects\partyinvites\WebApplicatio
 C:\Users\slohja\Documents\Visual Studio 2017\Projects\partyinvites\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.Views.pdb
 C:\Users\slohja\Documents\Visual Studio 2017\Projects\partyinvites\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CopyComplete
 C:\Users\slohja\Documents\Visual Studio 2017\Projects\partyinvites\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\MyView.g.cshtml.cs
+C:\Users\slohja\Documents\Visual Studio 2017\Projects\partyinvites\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\Razor\Views\Home\RsvpForm.g.cshtml.cs
