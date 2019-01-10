@@ -1,4 +1,6 @@
-﻿@{ Layout = null;}<!DOCTYPE html>
+﻿@{ Layout = null;}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
@@ -7,9 +9,11 @@
 <body>
     <div>
         @ViewBag.Greeting World (from the view-dynamic) Slobodan Lohja Spring 2019
-        <p>We're going to have an exciting party.<br />                     
-        (To do: sell it better. Add pictures or something.)                     
+        <p>
+            We're going to have an exciting party.<br />
+            (To do: sell it better. Add pictures or something.)
         </p>
+        <a asp-action="RsvpForm">RSVP Now</a>
     </div>
 </body>
 </html>
