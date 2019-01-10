@@ -5860,11 +5860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slohja\\Documents\\Visual Studio 2017\\Projects\\WebApplication1\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\slohja\\Documents\\Visual Studio 2017\\Projects\\partyinvites\\WebApplication1\\XUnitTestProject1\\XUnitTestProject1.csproj",
       "projectName": "XUnitTestProject1",
-      "projectPath": "C:\\Users\\slohja\\Documents\\Visual Studio 2017\\Projects\\WebApplication1\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "projectPath": "C:\\Users\\slohja\\Documents\\Visual Studio 2017\\Projects\\partyinvites\\WebApplication1\\XUnitTestProject1\\XUnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\slohja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slohja\\Documents\\Visual Studio 2017\\Projects\\WebApplication1\\XUnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\slohja\\Documents\\Visual Studio 2017\\Projects\\partyinvites\\WebApplication1\\XUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
