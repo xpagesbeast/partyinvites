@@ -26,6 +26,8 @@ namespace WebApplication1.Controllers
              * as action results. The action result system lets you encapsulate 
              * and reuse common responses in actions.
              */
+            int hour = DateTime.Now.Hour;
+            ViewBag.Greeting = hour < 12 ? "Good Morning" : "Good Afternoon";
             return View("MyView");
         }
     }
