@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using WebApplication1.Models;
 
 namespace WebApplication1.Controllers
 {
@@ -36,6 +37,14 @@ namespace WebApplication1.Controllers
          * which tells MVC to render the default view associated with the action method, 
          * which is a view with the same name as the action method, in this case RsvpForm.cshtml
         */
+        [HttpGet]
         public ViewResult RsvpForm() { return View(); }
+
+        [HttpPost]
+        public ViewResult RsvpForm(GuestResponse guestResponse)
+        {
+            Repository.AddResponse(guestResponse);             
+            return View("Thanks", guestResponse);
+        }
     }
 }
