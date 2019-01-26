@@ -12277,11 +12277,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slohja\\workspace\\partyinvites\\PartyInvites_Asst2_slohja\\PartyInvites_Asst1_slohja\\PartyInvites_Asst2_slohja.csproj",
+      "projectUniqueName": "C:\\Users\\slohja\\workspace\\partyinvites\\PartyInvites_Asst2_slohja\\PartyInvites_Asst2_slohja\\PartyInvites_Asst2_slohja.csproj",
       "projectName": "PartyInvites_Asst2_slohja",
-      "projectPath": "C:\\Users\\slohja\\workspace\\partyinvites\\PartyInvites_Asst2_slohja\\PartyInvites_Asst1_slohja\\PartyInvites_Asst2_slohja.csproj",
+      "projectPath": "C:\\Users\\slohja\\workspace\\partyinvites\\PartyInvites_Asst2_slohja\\PartyInvites_Asst2_slohja\\PartyInvites_Asst2_slohja.csproj",
       "packagesPath": "C:\\Users\\slohja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slohja\\workspace\\partyinvites\\PartyInvites_Asst2_slohja\\PartyInvites_Asst1_slohja\\obj\\",
+      "outputPath": "C:\\Users\\slohja\\workspace\\partyinvites\\PartyInvites_Asst2_slohja\\PartyInvites_Asst2_slohja\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
