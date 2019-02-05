@@ -1,5 +1,6 @@
 ﻿@model PartyInvites_Part3.Models.GuestResponse
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper  *, AuthoringTagHelpers
 
 <!DOCTYPE html>
 
@@ -7,12 +8,10 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>RsvpForm</title>
-    <link rel="stylesheet" href="/css/styles.css" />
-    <link rel="stylesheet" href="/lib/bootstrap/css/bootstrap.css" />
 </head>
 <body>
     <form asp-action="RsvpForm" method="post">
-         <div class="panel panel-success">
+        <div class="panel panel-success">
             <div class="panel-heading text-center"><h4>RSVP</h4></div>
             <div class="panel-body">
                 <form class="p-a-1" asp-action="RsvpForm" method="post">
