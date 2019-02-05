@@ -46,7 +46,7 @@ namespace AspNetCore
             WriteLiteral("\r\n<!DOCTYPE html>\r\n<html>\r\n");
             EndContext();
             BeginContext(120, 100, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4d875bcf61f54ce8a147f817046dfdf3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "736cadb6b4c54c5491cbd55eb3d0d256", async() => {
                 BeginContext(126, 87, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>Index</title>\r\n");
                 EndContext();
@@ -66,12 +66,12 @@ namespace AspNetCore
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(222, 276, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e2227bbe02ee44d8965d8f5f19207b43", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bb3655ed1e7442f2bf71a01dd3a3576c", async() => {
                 BeginContext(228, 163, true);
                 WriteLiteral("\r\n    <div>\r\n        <div class=\"text-center\">\r\n            <h3>We\'re going to have an exciting party!</h3>\r\n            <h4>And you are invited</h4>\r\n            ");
                 EndContext();
                 BeginContext(391, 61, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5733b5efda024185b0a72b2b127b66a3", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e63ac135700244699ba3f89d888a6616", async() => {
                     BeginContext(440, 8, true);
                     WriteLiteral("RSVP Now");
                     EndContext();

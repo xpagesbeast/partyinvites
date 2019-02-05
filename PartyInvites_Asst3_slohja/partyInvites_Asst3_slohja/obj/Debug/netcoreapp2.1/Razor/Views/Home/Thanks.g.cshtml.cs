@@ -50,7 +50,7 @@ namespace AspNetCore
             WriteLiteral("\r\n<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(172, 101, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e6199f532197472e81a04874caf6aeef", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a4db4b63a0fe43cd8e6ea57546249fc8", async() => {
                 BeginContext(178, 88, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>Thanks</title>\r\n");
                 EndContext();
@@ -70,7 +70,7 @@ namespace AspNetCore
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(275, 457, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "69a7e175b9f948b4bd8d579be9d414bd", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0aead13044b34254b1f5af0467418c97", async() => {
                 BeginContext(301, 34, true);
                 WriteLiteral("\r\n    <p>\r\n        <h1>Thank you, ");
                 EndContext();
@@ -118,7 +118,7 @@ namespace AspNetCore
                 WriteLiteral("    </p>\r\n    Click ");
                 EndContext();
                 BeginContext(641, 55, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c29aff19a2874bc0b97786fe66a2e9c1", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7ce0cf2fc7e047f6b6d48389aa4f4f72", async() => {
                     BeginContext(688, 4, true);
                     WriteLiteral("here");
                     EndContext();
